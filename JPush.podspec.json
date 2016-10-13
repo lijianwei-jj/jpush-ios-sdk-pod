@@ -15,7 +15,7 @@
     "ios": "5.0"
   },
   "source": {
-    "git": "https://github.com/jpush/jpush-ios-sdk-pod.git",
+    "git": "https://github.com/lijianwei-jj/jpush-ios-sdk-pod.git",
     "tag": "2.1.9"
   },
   "source_files": "lib/*.h",
